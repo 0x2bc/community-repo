@@ -14,23 +14,23 @@ Our long-term goal is to get the JOY token tradeable in a few different exchange
 
 ### Check facts
 
-- Joystream mainnet is launched one month ago on December the 9th, 2022. [[See Mainnet Ann]](https://blog.joystream.org/mainnet-is-live/)
-- JOY token is not traded on the open market. [[See CMC Stats]](https://coinmarketcap.com/currencies/joystream/)
-- 60m USD is full JOY market cap according to the latest fundrizing round. [[See 2022 Funding Ann]](https://blog.joystream.org/2022-funding/)
+- Joystream mainnet is launched one month ago on December the 9th, 2022. [[Mainnet Ann]](https://blog.joystream.org/mainnet-is-live/)
+- JOY token is not traded on the open market. [[CMC Stats]](https://coinmarketcap.com/currencies/joystream/)
+- 60m USD is full JOY market cap according to the latest fundrizing round. [[2022 Funding Ann]](https://blog.joystream.org/2022-funding/)
 - 0.06 USD/JOY is a an estimated price of JOY token based of the token mCap of 60m USD
-- 32.77% of JOY supply was unlocked and available for transfers at the genesis block [[See Mainnet Ann]](https://blog.joystream.org/mainnet-is-live/)
-- 3.58% of JOY supply is being released every months during the following year [[See Mainnet Ann]](https://blog.joystream.org/mainnet-is-live/)
-- 3.6% is a current inflation rate [[See Polkadot Stats]](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
-- 7.4% of JOY supply is currently staked which includes locked and unlocked tokens [[See Polkadot Stats]](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
-- 905k USD/months is an expected spending of Joystream DAO once it's fully rolled out [[See Mainnet Params]](https://gist.github.com/bedeho/1b231111596e25b215bc66f0bd0e7ccc)
-- 10 000 USD/day is an estimated cost of an attack that will completley block the transactional activity in the system, taking into account USD/JOY rate of 0.06 [[See Mainnet Params]](https://gist.github.com/bedeho/1b231111596e25b215bc66f0bd0e7ccc)
+- 32.77% of JOY supply was unlocked and available for transfers at the genesis block [[Mainnet Ann]](https://blog.joystream.org/mainnet-is-live/)
+- 3.58% of JOY supply is being released every months during the following year [[Mainnet Ann]](https://blog.joystream.org/mainnet-is-live/)
+- 3.6% is a current inflation rate [[Polkadot Stats]](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
+- 7.4% of JOY supply is currently staked which includes locked and unlocked tokens [[Polkadot Stats]](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frpc.joystream.org%3A9944#/staking)
+- 905k USD/months is an expected spending of Joystream DAO once it's fully rolled out [[Mainnet Params]](https://gist.github.com/bedeho/1b231111596e25b215bc66f0bd0e7ccc)
+- 10 000 USD/day is an estimated cost of an attack that will completley block the transactional activity in the system, taking into account USD/JOY rate of 0.06 [[Mainnet Params]](https://gist.github.com/bedeho/1b231111596e25b215bc66f0bd0e7ccc)
 
 ## Roles
 
 **Council:**
 
 1. Arrange the listing task in a way that ensures it has the highest priority
-2. Appoint individual (may be Council member) who will be wholly devoted to the task and accountable for the outcome. This person can accomplish the task independently or coordinate the efforts of other members of the group.
+2. Appoint an individual (may be a Council member) who will be wholly devoted to the task and accountable for the outcome. This person can accomplish the task independently or coordinate the efforts of other members of the group.
 
 **Responsible person:**
 
@@ -43,7 +43,7 @@ Construct a listing strategy based on the Council feedback and initial objective
 3. Get JOY listed
 Implement the agreed strategy into real life. Orchestrate the activities of everyone involved. 
 
-Lets focus ion the first item: 
+These items are described in detail in the following section.
 
 # Work plan (detailed)
 
@@ -59,19 +59,19 @@ Exchanges that are our contributors (see the full [list](https://arcticstartup.c
 
 - OKX [www.okx.com](https://www.okx.com/)
 - MEXC [https://m.mexc.com](https://m.mexc.com/)
-- GateIO[https://www.gate.io](https://www.gate.io/)
+- GateIO [https://www.gate.io](https://www.gate.io/)
 
 #### What are terms of listing for the rest CEXes/DEXes? 
 
 The work has started and need to be finzlized [here on GitHub](https://github.com/Joystream/community-repo/issues/865)
- - name 
+ - Name 
  - URL
  - CEX or DEX
- - substrate support?
- - exchnage tier: CMC ranking
- - cost of listing: does it require fiat payment
- - other requirements (trading volumes, safe deposit amount, application review period, what jurisdiction they operate from)
- - links to submit application
+ - Substrate support?
+ - Exchnage tier: CMC ranking
+ - Cost of listing: does it require fiat payment
+ - Other requirements (trading volumes, safe deposit amount, application review period, what jurisdiction they operate from)
+ - Link to submit application
 
 #### Bridging 
 
