@@ -2,7 +2,7 @@
 
 ### About
 
-This article provides an overview of the listing strategy for the JOY token, provides a list of objectives and action items, and outlines key information that should be considered before listing the token.
+This article outlines the necessary steps to develop a listing strategy for the JOY token, including a list of objectives and possible action items, as well as important information to consider prior to listing.
 
 ### Background
 
