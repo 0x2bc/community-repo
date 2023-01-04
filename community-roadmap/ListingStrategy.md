@@ -107,7 +107,7 @@ The following are suggested marketing activities:
 
 #### Liquidity 
 - How to maintain liquidity for DEXes? if so, should we launch an incentive program for liquidity providers? 
-- Will we hire market makers for CEXes?
+- Should we hire market makers for CEXes?
 
 
 # Appendix 
