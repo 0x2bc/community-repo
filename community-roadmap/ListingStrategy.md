@@ -1,8 +1,10 @@
 # JOY Listing 
 
-In this article, I have outlined the objectives, possible action items, and other importnat information concerning the JOY token listing.
+### About
 
-### Problem
+This article provides an overview of the listing strategy for the JOY token, provides a list of objectives and action items, and outlines key information that should be considered before listing the token.
+
+### Background
 
 It's essential for the community to have the opportunity to exchnage their JOY salaries to fiat and cover their living expenses so that they can stay committed to the development of the project. The JOY token is not traded on the open market now though the listing process could potentially take months, so it is important to start as soon as possible. 
 
@@ -25,7 +27,11 @@ Our long-term goal is to get the JOY token tradeable in a few different exchange
 - 905k USD/months is an expected spending of Joystream DAO once it's fully rolled out [[Mainnet Params]](https://gist.github.com/bedeho/1b231111596e25b215bc66f0bd0e7ccc)
 - 10 000 USD/day is an estimated cost of an attack that will completley block the transactional activity in the system, taking into account USD/JOY rate of 0.06 [[Mainnet Params]](https://gist.github.com/bedeho/1b231111596e25b215bc66f0bd0e7ccc)
 
-## Roles
+# Solution
+
+### Organization
+
+I suggest assigning one person to take charge of this task and organizing the people accordingly. This should help create more efficiency and expedite the process.
 
 **Council:**
 
@@ -34,22 +40,19 @@ Our long-term goal is to get the JOY token tradeable in a few different exchange
 
 **Responsible person:**
 
-1. Conduct Research 
-Gather all the listing-related information and present it to the Council
+1. Conduct Research: Gather all the listing-related information and present it to the Council
+2. Develop Startegy: Construct a listing strategy based on the Council feedback and initial objectives, and ensure that all Council members approve on it.
+3. Get JOY listed: Implement the agreed strategy into real life. Orchestrate the activities of everyone involved. 
 
-2. Develop Startegy
-Construct a listing strategy based on the Council feedback and initial objectives, and ensure that all Council members approve on it.
 
-3. Get JOY listed
-Implement the agreed strategy into real life. Orchestrate the activities of everyone involved. 
+### Strategy
 
-These items are described in detail in the following section.
+Strategy should basically answer the follwoing questions 
 
-# Work plan (detailed)
+which exchange we should get listed, 
+JOY token listed on a trustworthy exchange, ensuring that it is highly liquid and the community can trade on it freely. We must be mindful of the limitation of making sure the token price is fair in comparison with the market capitalization of similar projects and our most recent valuation.
 
-## 1. Conduct Research
 
-At first step, gather listing related information:
 
 #### Any preferences from exchnages-investors to JSG?
 
@@ -83,10 +86,6 @@ Figure out whether we can quickly launch bridging with Moonbeam/Ethereum network
 
 See if anyone in the community has easy access to exchanges and try to use their contacts. Determine if anyone has listed something on exchanges and figure out the procedure.
 
-## 2. Develop Startegy
-Construct a listing strategy based on the Council feedback and initial objectives, and ensure that all Council members approve on it.
-
-Make sure the strategy includes the following items 
 
 #### Decrease selling pressure
 - what we do to maximize amount of JOY out of circulation through staking, voting, etc
@@ -103,8 +102,5 @@ Will we run an extensive marketing campaign to advertise JOY to outside groups? 
 - will we provide liquidity for DEXes? if so, will we have incentive program for liquidity providers? 
 - will we hire market makers for CEXes?
 
-## 3. Get JOY listed
 
-Implement the agreed strategy into real life. Orchestrate the activities of everyone involved. 
 
-Get the JOY token listed on a trustworthy exchange, ensuring that it is highly liquid and the community can trade on it freely. We must be mindful of the limitation of making sure the token price is fair in comparison with the market capitalization of similar projects and our most recent valuation.
