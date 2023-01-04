@@ -12,7 +12,7 @@ It's essential for the community to have the opportunity to exchnage their JOY s
 
 Our short-term goal is to get the JOY token listed on a trustworthy exchange in a brief period of time, ensuring that it is highly liquid and the community can trade on it freely. We must be mindful of the limitation of making sure the token price is fair in comparison with the market capitalization of similar projects and our most recent valuation.
 
-Our long-term goal is to get the JOY token tradeable in a few different exchanges including most popular DEXes and CEXes as well as maki sure token can be easily bridget to the Moonbeam (Polkadot) and Ethereum blockchains.  
+Our long-term goal is to get the JOY token tradeable in a few different exchanges including most popular DEXes and CEXes as well as making sure token can be easily bridging to the Moonbeam (Polkadot) and Ethereum blockchains.  
 
 ### Check facts
 
@@ -87,7 +87,7 @@ Bridging can give us access to the most popular DEXes on Polkadot and Ethereum e
 - Follow up the conversation in the Moonbeam [tech support](https://discord.com/channels/745382242326413442/930467366268198912/1059188993385824267) 
 - Communicate with @mrbovo.eth on his [bridging technology research](https://discord.com/channels/811216481340751934/1035124335255506984/1059754673797607465)
 
-#### Are there any advisors available to assist with listings?
+#### Are there any advisors available to assist us with listings?
 
 - Check if anyone in the community has easy access to exchanges. Try to use their contacts. Determine if anyone has listed something on exchanges and figure out the procedure.
 - See if any of JSG investors can assist on listings 
@@ -111,7 +111,7 @@ The following are suggested marketing activities:
 
 
 # Appendix 
-My opinion on the supply and demand balance in response to community questions (term #1).
+My opinion on the JOY supply and demand balance in response to community questions (term #1).
 
 > The only buyers of JOY are gateway operators like Gleev, everybody else including WG workers, council members and content creators are sellers. How is this going to balance out?
 
