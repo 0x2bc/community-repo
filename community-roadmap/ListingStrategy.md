@@ -1,4 +1,4 @@
-# JOY Listing 
+# Listing Strategy (draft v1) 
 
 ### About
 
