@@ -111,8 +111,4 @@ The following are suggested marketing activities:
 
 
 # Appendix 
-My opinion on the JOY supply and demand balance in response to community questions (term #1).
 
-> The only buyers of JOY are gateway operators like Gleev, everybody else including WG workers, council members and content creators are sellers. How is this going to balance out?
-
-> I believe that JOY use cases will be a major contributor to future success, however, due to the limited user base, we do not have control over tokenomics in the short-term. It's pretty clear that in near future JOY token will mainly be about speculations.  Once the user base grows and more gateways are available, JOY will be used much intensively, and in turn  we will be get an opportunity to precisely manage the balance between supply and demand. That will be the time when tokenomics will drive the price. 
