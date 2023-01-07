@@ -85,7 +85,7 @@ The work has already started and need to be finzlized [here on GitHub](https://g
 
 Bridging can give us access to the most popular DEXes on Polkadot and Ethereum ecosystems.  Can we launch bridges quickly on the indicated networks and what technical challenges might arise? What development scope is necessary?
 - Follow up the conversation in the Moonbeam [tech support](https://discord.com/channels/745382242326413442/930467366268198912/1059188993385824267) 
-- Communicate with @mrbovo.eth on his [bridging technology research](https://discord.com/channels/811216481340751934/1035124335255506984/1059754673797607465)
+- Check out [bridging technology research](https://gist.github.com/ignazio-bovo/8a96121535be1be730a507b2de9a198e) performed by @mrbovo.eth  
 
 #### Are there any advisors available to assist us with listings?
 
