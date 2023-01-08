@@ -8,6 +8,14 @@ This article outlines the necessary steps to develop a listing strategy for the 
 
 It's essential for the community to have the opportunity to exchnage their JOY salaries to fiat and cover their living expenses so that they can stay committed to the development of the project. The JOY token is not traded on the open market now though the listing process could potentially take months, so it is important to start as soon as possible. 
 
+### Community feedback
+
+```diff
++ Be sure to look at this section as it was recently updated
+```
+[Listing: Pioneer thread](https://pioneerapp.xyz/#/forum/thread/11)
+
+
 ### Goals
 
 Our short-term goal is to get the JOY token listed on a trustworthy exchange in a brief period of time, ensuring that it is highly liquid and the community can trade on it freely. We must be mindful of the limitation of making sure the token price is fair in comparison with the market capitalization of similar projects and our most recent valuation.
@@ -84,7 +92,10 @@ The work has already started and need to be finzlized [here on GitHub](https://g
 #### Should we use bridging instead of listings?
 
 Bridging can give us access to the most popular DEXes on Polkadot and Ethereum ecosystems.  Can we launch bridges quickly on the indicated networks and what technical challenges might arise? What development scope is necessary?
-- Follow up the conversation in the Moonbeam [tech support](https://discord.com/channels/745382242326413442/930467366268198912/1059188993385824267) 
+
+```diff
++ Be sure to look at this section as it was recently updated
+```
 - Check out [bridging technology research](https://gist.github.com/ignazio-bovo/8a96121535be1be730a507b2de9a198e) performed by @mrbovo.eth  
 
 #### Are there any advisors available to assist us with listings?
