@@ -28,49 +28,9 @@ the boards, contact Jsgenesis.
 
 # Appendix
 
-### [WG Term Plan Template](https://pioneerapp.xyz/#/proposals/preview/45)
+#### WG Term Plan Template [proposal](https://pioneerapp.xyz/#/proposals/preview/45)
 
-#### 1. Current group composition :
-
-- Lead name
-- Worker1
-- Worker2
-- …
-
-#### 2. Planned Budget for the Term
-
-Planned budget:
-
-**Purpose:** 
-
-#### 3. Group Priorities for the Term
-- …
-- …
-
-### [WG Term Report Template]
-
-#### 1. Current group composition :
-
-- Lead name
-- Worker1
-- Worker2
-- …
-
-If there are changes, please provide a brief explanation of the rationale behind them.
-
-#### 2. Budget for the Term
-
-Planned budget:
-Actual budget: 
-
-If there are any discrepancies, please provide a brief explanation for their occurrence.
-
-**Purpose:** 
-
-#### 3. Work status for the Term
-
-Which priorities were completed. 
-
+#### WG Term Report Template [pre-proposal](https://pioneerapp.xyz/#/forum/thread/66)
 
 ### Council period parameters
 
