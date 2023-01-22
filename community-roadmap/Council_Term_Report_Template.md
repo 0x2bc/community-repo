@@ -1,7 +1,5 @@
 # Council Term Report Template
 
-# WG Term Report Template
-
 ### 1. Current Council composition :
 - CouncilMember1
 - CouncilMember2
@@ -69,8 +67,9 @@ Please provide an overview of which tasks we are behind schedule on, for them th
 - Links to introduced new governance documents
 - ...
 
-### 5. Council handover notes
-Majot tasks and activities, what was done good and what needs to be focused more in the next council term
+### 5. Recommendations for next council 
+
+Majot tasks and activities, that needs to be focused more in the next council term
 
 - Item 1
 - Item 2
