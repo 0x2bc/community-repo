@@ -1,9 +1,12 @@
 # Council Term Report Template
 
+Comment: The headline of a document  should be formatted as "Council Report - Term #1", where #1
+is replaced with the relevant Council term number.
+
 ### 1. Current Council composition :
-- CouncilMember1
-- CouncilMember2
-- CouncilMember3
+- Council Member 1
+- Council Member 2
+- Council Member 3
 
 ### 2. Budget for the Term
 
@@ -13,20 +16,17 @@ For each section, if there are any discrepancies, please provide a brief explana
 
 - Starting Council budget:
 - Ending Council budget:
-- Planned Total spending: 
-- Actual Total spending:
 
-#### Validators spending
+| Spending | Total spent (planned), JOY | Total spent (actual), JOY | 
+| --- | ---| --- | 
+| Council rewards  | ... | ... |
+| WG refilled   | ... | ... |
+| Funding proposals   | ... | ... |
+| **Total** | ... | ... |
+| Validator rewards   | ... | ... |
+| **Grand Total**  | ... | ... |
 
-- Planned Total spending:
-- Actual Total spending:
-
-#### Council spending
-
-- Planned Total spending:
-- Actual Total spending:
-
-#### WG spending
+#### WG spending (detailed)
 
 | Working group | Total refilled, JOY | Total spent (planned), JOY | Total spent (actual), JOY | Workers rewards, JOY | Lead rewards, JOY | End budget, JOY |
 | --- | ---| --- | --- | ---| --- |--- |
@@ -41,20 +41,15 @@ For each section, if there are any discrepancies, please provide a brief explana
 | **Total**  | ... | ... | ... | ... | ... | 
 
 
-#### One-time spendings
+#### List of funding proposals
 
-This encompasses rewards, subsidies, bounties, grants, onetime marketing financing, and other similar undertakings:
-
-- Planned Total spending:
-- Actual Total spending:
-
-##### List of spending proposals
 - Spending proposal 1
 - Spending proposal 2
 - Spending proposal ...
 
-### 3. Work status for the Term
-For every priority of the Term Plan: 
+### 3. Work status 
+
+For every priority of the Council Term Plan: 
 
 - Priority 1: Status (not started/in progress/done)
 - Priority 2: Status (not started/in progress/done)
@@ -62,7 +57,7 @@ For every priority of the Term Plan:
 
 Please provide an overview of which tasks we are behind schedule on, for them the reasons for the delays and new estimated time of arrival.
  
-### 4. Council daily report 
+### 4. Council daily reports 
 - Links to Council daily reports
 - Links to introduced new governance documents
 - ...
