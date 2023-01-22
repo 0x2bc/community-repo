@@ -3,21 +3,21 @@
 _Comment: The headline of a document  should be formatted as "Council Report - Term #1", where #1
 is replaced with the relevant Council term number._
 
-### 1. Current Council composition :
-- Council Member 1
-- Council Member 2
-- Council Member 3
+### 1. Current Council composition
+- Council Member Name 1
+- Council Member Name 2
+- Council Member Name 3
 
 ### 2. Budget for the Term
 
-For each section, if there are any discrepancies, please provide a brief explanation of the rationale behind them.
+_Comment: For each section below, if there are any discrepancies, please provide a brief explanation of the rationale behind them._
 
 #### Overview
 
-- Starting Council budget:
-- Ending Council budget:
+- Starting Council budget: ... JOY
+- Ending Council budget: ... JOY
 
-| Spending | Total spent (planned), JOY | Total spent (actual), JOY | 
+| Item | Total spending (planned), JOY | Total spending (actual), JOY | 
 | --- | ---| --- | 
 | Council rewards  | ... | ... |
 | WG refilled   | ... | ... |
@@ -28,7 +28,7 @@ For each section, if there are any discrepancies, please provide a brief explana
 
 #### WG spending (detailed)
 
-| Working group | Total refilled, JOY | Total spent (planned), JOY | Total spent (actual), JOY | Workers rewards, JOY | Lead rewards, JOY | End budget, JOY |
+| Working group | Total refilled, JOY | Total spending (planned), JOY | Total spending (actual), JOY | Workers rewards, JOY | Lead rewards, JOY | End budget, JOY |
 | --- | ---| --- | --- | ---| --- |--- |
 | Builders  | ... | ... | ... | ... | ... | 
 | Storage  | ... | ... | ... | ... | ... | 
