@@ -15,7 +15,11 @@ _Comment: For each section below, if there are any discrepancies, please provide
 #### Overview
 
 - Starting Council budget: ... JOY
+- Spending from Council budget: ... JOY
+- Refill of Council budget: ... JOY
 - Ending Council budget: ... JOY
+
+_Comment: Ending Council budget=Starting Council budget-Spending from Council budget+Refill of Council budget ._ _Refill of Council budget = Total from the table below_
 
 | Item | Total spending (planned), JOY | Total spending (actual), JOY | 
 | --- | ---| --- | 
