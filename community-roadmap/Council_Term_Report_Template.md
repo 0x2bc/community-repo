@@ -1,7 +1,7 @@
 # Council Term Report Template
 
-Comment: The headline of a document  should be formatted as "Council Report - Term #1", where #1
-is replaced with the relevant Council term number.
+_Comment: The headline of a document  should be formatted as "Council Report - Term #1", where #1
+is replaced with the relevant Council term number._
 
 ### 1. Current Council composition :
 - Council Member 1
@@ -51,15 +51,18 @@ For each section, if there are any discrepancies, please provide a brief explana
 
 For every priority of the Council Term Plan: 
 
-- Priority 1: Status (not started/in progress/done)
-- Priority 2: Status (not started/in progress/done)
-- ...
+|#| Priority | Description | Status | 
+| ---| --- | ---| --- | 
+| 1  | ... | ... |
+| 2   | ... | ... |
+| ... | ... | ... |
 
-Please provide an overview of which tasks we are behind schedule on, for them the reasons for the delays and new estimated time of arrival.
+
+Please provide a detailed status for which tasks we are behind schedule on, for them the reasons for the delays and new estimated time of arrival.
  
 ### 4. Council daily reports 
-- Links to Council daily reports
-- Links to introduced new governance documents
+- Council daily report - Date
+- Council daily report - Date
 - ...
 
 ### 5. Recommendations for next council 
