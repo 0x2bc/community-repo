@@ -1,8 +1,7 @@
 ### DAO Spendings Dashboard 
 
 ### Objective
-The objective of this functional design specification is to develop an interactive online dashboard to visualize the 
-data of Joystream DAO spendings since the mainnet launch.
+The aim of this functional design specification is to set out the requirements for the BWG to create an interactive online dashboard to display data on the Joystream DAO's expenditures. This data is necessary for the Council to carry out their duties effectively and efficiently.
 
 ### Scope
 The dashboard should include three widgets: a chart to visualize council overall spending, a chart to visualize WG 
