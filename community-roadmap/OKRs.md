@@ -1,5 +1,3 @@
-# Objectives and Key Results
-
 # About
 
 This Objectives and Key Results (OKRs) guideline is designed to provide a framework for measuring the overall performance of the system, providing a signal to the council about how well the system is operating. The signal from this measurement will allow the council to adjust policies and reallocate resources to improve the performance of the system, ensuring that it is running as efficiently as possible.
