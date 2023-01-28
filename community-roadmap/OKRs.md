@@ -116,19 +116,19 @@ Let's make sure we offer reliable and excellent performing services:
 
 Lets work on the increasing the number of tools and services in our ecosystem, promote development activity, and strengthen the perception of the Joystream ecosystem among external entities
 
-### 5.1 Tools and services
+### Tools and services
 
 Boost the quality and quantity of tools and services available to the Joystream community.
 
-### 5.2 Software developers
+### Software developers
 
 Ensuring that the number of software developers and their associated tech community (QA, desiners, etc) is growing and their daily activities are increasing, this ultimately leads to more tools and services becoming available.
 
-### 6.3 Assistance and support
+### Assistance and support
 
 The DAO must ensure that it is providing all necessary support to the ecosystem in order to promote its growth. This includes technical assistance, guides and tutorials, the necessary tools, and financing. All of these elements are essential for the successful growth of the ecosystem.
 
-### 6.4 Product development
+### Product development
 
 BWG and the JSgenesis team should continue deeply collaborate to address issues and enhance the Pioneer, Atlas, and other products. 
 
