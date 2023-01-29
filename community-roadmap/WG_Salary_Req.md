@@ -31,7 +31,7 @@ This view includes the following attributes:
 - Member id
 - Member handle
 - Salary per day, JOY - for every day of the period specified
-- SUM, joy - sum of all payouts made to the worker for the period specified
+- SUM, JOY - sum of all payouts made to the worker for the period specified
 
  4. As user, I can see salaries paid for the previous period on online dashboard or download them in csv format. 
 
