@@ -4,6 +4,7 @@
 
 1. As user, I can see Working Group current state for every Working Group 
 
+Example: 
 ![Untitled (1)](https://user-images.githubusercontent.com/2911961/215334430-b6f2ff08-87fd-48fe-98b3-bab9481fb6a5.png)
 
 This view includes the following attributes: 
@@ -19,6 +20,8 @@ This view includes the following attributes:
 3. As user, I can see salaries paid for the previous period
     1. The default period is 1 month
     2. Any custom period can be selected
+
+Example: 
 ![Untitled (2)](https://user-images.githubusercontent.com/2911961/215334455-ae7a5d32-bf8b-4972-ba76-ba242b69711a.png)
 
 
