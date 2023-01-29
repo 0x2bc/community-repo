@@ -1,8 +1,6 @@
-# REQUIREMENTS
-
 # **REQUIREMENTS FOR SALARY HISTORY**
 
-## 1nd priority
+### 1nd priority
 
 1. As user, I can see Working Group current state for every Working Group 
 
@@ -41,7 +39,7 @@ This view includes the following attributes:
 - I can choose the block at which I would like to see the WG’s budget
 - I can view the WG’s budget over the period of time in a graph format
 
-## 2nd priority
+### 2nd priority
 
  1*. As user, I can see all transactions of the WG Lead on online dashboard or download them in csv format. 
 
