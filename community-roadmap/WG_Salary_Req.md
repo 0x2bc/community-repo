@@ -47,6 +47,7 @@ This view includes the following attributes:
  1*. As user, I can see all transactions of the WG Lead on online dashboard or download them in csv format. 
 
 - I can choose WG for which I would like to see Lead transactions
+- I can read transaction command
 - I can see at which block each transaction was executed and corresponding time stamp
 
  2*. As user, I can see all transactions related to the WG performed by the system (not Lead): 
