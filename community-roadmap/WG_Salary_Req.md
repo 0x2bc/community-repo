@@ -1,6 +1,6 @@
 # **REQUIREMENTS FOR SALARY HISTORY**
 
-### 1nd priority
+### 1st priority
 
 1. As user, I can see Working Group current state for every Working Group 
 
