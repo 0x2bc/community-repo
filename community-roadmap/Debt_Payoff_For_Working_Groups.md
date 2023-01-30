@@ -14,7 +14,7 @@ Working Groups persisted to operate during the transitional period between testn
 
 # Payoff Details
 
-### Period
+### 1. Period
 
 Council owes WGs for debts they have incurred in the following time periods
 
@@ -26,7 +26,7 @@ No payment was received by the WGs when they were between the Rhodes and Carthag
 
 Some WGs were only paid for part of their work, while others were not paid at all due to the proposal limit and budget constraints during the Carthage testnet.
 
-### Amount
+### 2. Amount
 
 For the purpose of the experiment, we will be making payments one by one. This time, the Builders Working Group will be receiving the payment. If everything goes smooth we will repeat the procedure for the rest of WGs. 
 
@@ -44,9 +44,9 @@ For the purpose of the experiment, we will be making payments one by one. This t
 
 **Important notice:** the ratio of debt among workers will remain the same as in the table provided, however the overall amount will be determined according to the rate we used for BWG rewards. This rate is something between what we have on testnet and what we have on mainnet.
 
-### Vesting schedule
+### 3. Vesting schedule
 
-- Payment for all debts must be 8% at the time of payment, and the remainder to be vested for two years, with a linear unlock
+Payment for all debts must be 8% at the time of payment, and the remainder to be vested for two years, with a linear unlock
 
 # Next Steps
 
