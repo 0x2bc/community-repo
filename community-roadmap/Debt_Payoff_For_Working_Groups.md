@@ -50,8 +50,6 @@ Payment for all debts must be 8% at the time of payment, and the remainder to be
 
 # Next Steps
 
-### Technical implementation
-
 1. The Council raises WG's Budget in proportion to the amount of debt that they have paid off. 
 2. The Lead is given a list by the Council of members who should be given JOY and the amount of JOY each should receive.
 3. Lead  make payments according to the list provided and following the rules how to created vesting payments 
