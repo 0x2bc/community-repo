@@ -1,6 +1,6 @@
 # Debt Payoff For Working Groups
 
-*Comment by 0x2bc: In this document I have attempted to answer all questions and clear up any confusion about the topic of Debt Payoff For Working Groups .*
+*Comment by 0x2bc: In this document I have attempted to answer all questions and clear up any confusion about the topic of Debt Payoff For Working Groups . We have had conversations about this [before](https://pioneerapp.xyz/#/forum/thread/3), but they did not supply the complete narrative.*
 
 # About
 
