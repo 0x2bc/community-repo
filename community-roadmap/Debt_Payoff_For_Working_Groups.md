@@ -20,7 +20,7 @@ Council owes WGs for debts they have incurred in the following time periods
 
 **Transitional periods**
 
-No payment was received by the WGs when they were between the Rhodes and Carthage stages and also between the Carthage and Mainnet launch (which we call transitional periods**)**.
+No payment was received by the WGs when they were between the Rhodes and Carthage stages and also between the Carthage and Mainnet launch (which we call transitional periods).
 
 **Carthage testnet period**
 
