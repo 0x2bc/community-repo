@@ -16,14 +16,15 @@ We will test storage system under high load
 
 It should take about two weeks for the testing to go smoothly, and the 5 SP node operators should keep their nodes active around a week. If we get going quickly, the test should wrap up by the start of March.
 
-1. Council, SP Lead, JSG: agree on the test requirements and success criteria - Days 1-2
-2. JSG: setup staging network - Days 3-4
-3. Council, SP Lead: Council elected and SP Lead hired on staging network - Days 5-6
-4. SP Lead: setup 5 SP servers - Days 7-8
-5. BWG Lead: test scripts development -  Days 3-8
-6. SP Lead, JSG: Testing - Days 9-13
-7. Council, SP Lead, JSG: Results and next steps - Day 14
-
+| Role | Activity | Time |
+| --- | --- | --- |
+| Council, SP Lead, JSG | agree on the test requirements and success criteria | Days 1-2 |
+| JSG | setup staging network | Days 3-4 |
+| Council, SP Lead | Council elected and SP Lead hired on staging network | Days 5-6 |
+| SP Lead | setup 5 SP servers | Days 7-8 |
+| BWG Lead | test scripts development | Days 3-8 |
+| SP Lead, JSG | testing | Days 9-13 |
+| Council, SP Lead, JSG | results and next steps |  Day 14 |
 ## **Tests**
 
 **Simultaneous upload -1**
