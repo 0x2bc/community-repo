@@ -14,7 +14,7 @@ We will test storage system under high load
 
 ## Plan & Roles
 
-It should take about two weeks for the testing to go smoothly, and the five SP nodes should take around a week to keep their nodes active. If we get going quickly, the test should wrap up by the start of March.
+It should take about two weeks for the testing to go smoothly, and the 5 SP node operators should keep their nodes active around a week. If we get going quickly, the test should wrap up by the start of March.
 
 1. Council, SP Lead, JSG: agree on the test requirements and success criteria - Days 1-2
 2. JSG: setup staging network - Days 3-4
