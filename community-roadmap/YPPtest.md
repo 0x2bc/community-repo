@@ -4,7 +4,7 @@ The YPP test plan document covers details of the tests we want to carry out, how
 
 ## Scope
 
-- Storage system under high load
+We will test storage system under high load
 
 **Out of scope**
 
