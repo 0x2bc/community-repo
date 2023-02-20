@@ -2,7 +2,11 @@
 
 The DAO has high level OKRs that it needs to focus and improve on. Below is a list of these high level OKRs. In the next paragraphs we will further break down these high level OKRs into individual OKRs for each working group. By focusing on these high level OKRs, we can ensure that all working groups have a clear understanding of the goals and objectives of the DAO.
 
-## Income
+## 1. Management efficiency
+
+Management efficiency and effectiveness is critical for the long-term development and sustainable growth of DAOs. To ensure this, governance processes and procedures must be established and kept up-to-date. Additionally, effective communication between teams and community members is essential, as well as quick and effective decision making. Together, these elements create an environment that allows for DAOs to be successful in the long-term.
+
+## 2. Income
 
 DAO is distinct from a conventional organisation, as it spends its budget obtained via JOY inflation.   When discussing DAO income, we refer to anything that boosts the chances that DAO will pay its expenses over the short and long term. 
 
@@ -61,7 +65,7 @@ As was said before the ultimate objective is to maximize number of tokens in loc
 - Bonding tokens for role
 - Vesting
 
-## Costs
+## 3. Costs
 
 Let’s reduce our costs while staying competitive on pricing and ensuring top-notch infrastructure services. There are several different areas where costs arise:
 
@@ -72,7 +76,7 @@ Let’s reduce our costs while staying competitive on pricing and ensuring top-n
 
 As the DAO is not a typical organisation, the term "costs" used in relation to it can be interpreted in a variety of ways. In some sense, even a high selling pressure can be considered as a financial burden or “cost” for DAO. 
 
-## Quality of service
+## 4. Quality of service
 
 Let's make sure we offer reliable and excellent performing services:
 
@@ -106,7 +110,7 @@ Let's make sure we offer reliable and excellent performing services:
     - Manage the number of tokens going from the Gleev or other Gateway platform per unit of service. Assist the accumulating discrepancies between requested payment magnitudes from the provider (Joystream DAO), and the reports accumulated by the gateway
     - Help answer technical inquiries about integration with Joystream CDN from the Gleev team or other gateways.
 
-## Ecosystem development
+## 5. Ecosystem development
 
 Lets work on the increasing the number of tools and services in our ecosystem, promote development activity, and strengthen the perception of the Joystream ecosystem among external entities
 
