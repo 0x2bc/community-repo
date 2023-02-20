@@ -1,6 +1,6 @@
-# High-level OKRs
+# High-level KPIs/Objectives
 
-The DAO has high level OKRs that it needs to focus and improve on. Below is a list of these high level OKRs. In the next paragraphs we will further break down these high level OKRs into individual OKRs for each working group. By focusing on these high level OKRs, we can ensure that all working groups have a clear understanding of the goals and objectives of the DAO.
+The DAO has high level KPIs/Objectives that it needs to focus and improve on. Below is a list of these high level OKRs. In the next paragraphs we will further break down these high level KPIs/Objectives into individual KPIs/Objectives for each working group. By focusing on these high level OKRs, we can ensure that all working groups have a clear understanding of the goals and objectives of the DAO.
 
 ## 1. Management efficiency
 
